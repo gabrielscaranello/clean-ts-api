@@ -1,4 +1,4 @@
-import { MissignParamError } from './errors/missign-param-error'
+import { MissignParamError } from '../errors/missign-param-error'
 import { SignUpController } from './signup'
 
 describe('SignUp Controller', () => {
